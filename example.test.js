@@ -12,6 +12,10 @@ describe("test fareportal", () => {
   it("clicking on oneWayTrip  ", async () => {
     await hp.oneWayTrip();
   });
+  // it("verify home page", async () => {
+  //   await hp.homePageVerification();
+  // });
+
   // it("clicking on online banking  ", async () => {
   //   await hp.enterOnlineBanking();
   // });
